@@ -3,14 +3,24 @@
   float: left;
   background-color: grey;
   color: aquamarine;
+  margin: 5px;
+  border: 5px solid aquamarine;
+  padding:10px;
 }
 .main {
   width: 70%;
   float: right;
   background-color: grey;
   color: aquamarine;
+  margin: 5px;
+  border: 5px solid aquamarine;
+  padding:10px;
 }
 
 body {
   background-image: url("https://www.revolvermag.com/sites/default/files/media/images/article/sleep-token.jpg");
+}
+
+.img {
+  padding: 20px;
 }
