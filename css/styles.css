@@ -1,0 +1,16 @@
+.shows {
+  width: 20%;
+  float: left;
+  background-color: grey;
+  color: aquamarine;
+}
+.main {
+  width: 80%;
+  float: right;
+  background-color: grey;
+  color: aquamarine;
+}
+
+body {
+  background-image: url("https://www.revolvermag.com/sites/default/files/media/images/article/sleep-token.jpg");
+}
